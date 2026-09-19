@@ -20,7 +20,15 @@ For each ticket I practiced:
 - Writing customer-facing **Comments** (plain language, reassuring tone)
 - Moving tickets through state changes (New → In Progress/Resolved)
 
-Screenshots: `/screenshots/incident-list.png`, `/screenshots/incident-detail.png`
+### Screenshots
+
+![All three tickets in the incident list](screenshots/All%20three%20tickets.png)
+
+![Password reset ticket detail](screenshots/Password%20Reset%20Ticket.png)
+
+![Software/access ticket detail](screenshots/Access%20Ticket.png)
+
+![VPN ticket detail](screenshots/VPN%20Ticket.png)
 
 ## Skills demonstrated
 
